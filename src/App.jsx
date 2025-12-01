@@ -109,7 +109,7 @@ function App() {
                 Calculate currency
             </button>
         }
-        { // הצגת ההמרה ע״י חישוב:
+        { // הצגת ההמרה ע״י חישוב: מ
               <div>
             Exchange rate {exchangeRate*money // החישוב שמראים בהמרת הסכום שהוכנס עבור המטבע, ליורו
               }
