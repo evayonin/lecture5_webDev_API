@@ -1,3 +1,4 @@
+כאן כתבנו בריאקט אפליקציית צד לקוח שפונה לשרת שיציג לי משהו באפליקציית האינטרנט בהתאם לבקשה שנשלחה
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
